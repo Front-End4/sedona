@@ -1,0 +1,8 @@
+src/*.css
+src/*/*.css
+src/*.html
+src/*/*.html
+dist/*.css
+dist/*/*.css
+dist/*.html
+dist/*/*.html

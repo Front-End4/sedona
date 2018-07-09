@@ -1,8 +1,8 @@
 # sedona
 repo for sedona
 #Никита
-123qwe
+form and controls
 #Игорь
-123qwe
+buttons and small logo
 #Олег
-123qwe
+navbar & nav and logo

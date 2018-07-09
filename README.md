@@ -1,8 +1,8 @@
 # sedona
 repo for sedona
-#Никита
+### Никита
 form and controls
-#Игорь
+### Игорь
 buttons and small logo
-#Олег
+### Олег
 navbar & nav and logo

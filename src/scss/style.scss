@@ -1,0 +1,12 @@
+// main styles file to include other parts
+// please compile to ./dist/css/style.css
+
+// normalize
+@import '_normalize.scss';
+
+// global styles
+@import '_variables.scss';
+@import '_global.scss';
+
+// add blocks
+@import 'blocks/blocks.scss';

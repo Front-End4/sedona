@@ -6,3 +6,4 @@ dist/*.css
 dist/*/*.css
 dist/*.html
 dist/*/*.html
+*.map

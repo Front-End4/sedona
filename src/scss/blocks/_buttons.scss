@@ -1,6 +1,6 @@
 // buttons and social buttons
 .btn{
-    width: 79px;
+    width: 60px;
     height: 12px;
     color: black;
     font-family: PTSans;
@@ -10,7 +10,18 @@
     text-transform: uppercase;
 }
 div{
-    width:600px;
-    height:900px;
+    width:460px;
+    height:58px;
     border:1px solid black;
+}
+.but{
+    width: 60px;
+    height: 12px;
+    margin: 500px;
+    color: black;
+    font-family: PTSans;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 26px;
+    text-transform: uppercase;   
 }

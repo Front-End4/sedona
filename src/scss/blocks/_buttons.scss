@@ -1,9 +1,27 @@
 // buttons and social buttons
 .btn{
-    width: 60px;
-    height: 12px;
-    color: black;
-    font-family: PTSans;
+    color: white;
     font-size: 14px;
     font-weight: 700;
+<<<<<<< HEAD
     line-height: 26px;
+=======
+    line-height: 1.8;
+    text-transform: uppercase;
+    background-color: #81b3d2;
+    padding: 16px 70px;
+    border: none;
+    cursor: pointer;
+    &:hover {
+        background-color: #669ec0;
+    }
+    &:active {
+        background-color: #5496bd;
+        color: rgba(255,255,255,.3);
+    }
+    &--disable {
+        background-color: #e5e5e5 !important;
+        cursor: not-allowed;
+    }
+}
+>>>>>>> 2b749fed3c8378821b9ea08ff50f323a2b1a3817

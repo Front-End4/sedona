@@ -1,4 +1,5 @@
 src/*.css
+src/css/*.css
 src/*/*.css
 src/*.html
 src/*/*.html

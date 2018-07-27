@@ -1,1 +1,12 @@
 // nav
+.nav {
+    flex-grow: 1;
+    &__list {
+        display: flex;
+        align-items: center;
+    }
+    &__item {
+        flex-grow: 1;
+        text-align: center;
+    }
+}

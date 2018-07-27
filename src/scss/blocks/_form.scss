@@ -1,26 +1,25 @@
 // form styles
 .input{
-    width: 278px;
-  height: 58px;
-  background-color: #f2f2f2;
-  border: none;
-  
-  color: black;
-  font-family: "PT Sans";
-  font-size: 18px;
-  font-weight: 700;
-  line-height: 26px;
-  transition: .3s;
-  padding-left: 5px;
-  }
-  .input:hover{
-    background-color: #e5e5e5;
-    
-  }
-  .input:focus{
-    background-color: white;
-  border: 4px solid #e5e5e5;
-  }
+  width: 270px;
+height: 50px;
+background-color: #f2f2f2;
+border: 8px solid  #f2f2f2;
+
+color: black;
+font-family: "PT Sans";
+font-size: 18px;
+font-weight: 700;
+line-height: 26px;
+transition: .3s;
+padding-left: 5px;
+}
+.input:hover{
+  background-color: #e5e5e5;
+  border: #e5e5e5 8px solid;
+}
+.input:focus{
+  background-color: white;
+border: 8px solid #e5e5e5;
   .label{
     width: 70px;
   height: 11px;

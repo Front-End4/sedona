@@ -11,7 +11,7 @@
     margin-top: 12px;
     border: none;
     cursor: pointer;
-    &--hover {
+    &:hover {
         background-color: #669ec0;
     }
     &:active {
@@ -22,8 +22,5 @@
         background-color: #e5e5e5 !important;
         cursor: not-allowed;
     }
-    &--down {
-            background-color: #5496bd;
-            color: #88b6d1;
-        }
 }
+

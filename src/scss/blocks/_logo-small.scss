@@ -1,1 +1,22 @@
 // small logo
+.logo{
+    padding: 16px 70px;
+    margin-left: 600px;
+    margin-top: 12px;
+    
+}
+.logo__link__img{
+    margin-left:60%;
+    width:40px;
+    height: 40px;
+    background-image: url(../../dist/img/logo.png);
+    background-repeat: no-repeat;    
+}
+.logo__link__img:hover{
+    background-image: url(../../dist/img/logo-hover.png);
+    background-repeat: no-repeat; 
+}
+.logo__link__img:active{
+    background-image: url(../../dist/img/logo-down.png);
+    background-repeat: no-repeat; 
+}
